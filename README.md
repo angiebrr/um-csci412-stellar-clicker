@@ -45,6 +45,23 @@ Related repos:
 
 ![The senior staff window](docs/images/senior-staff.jpg)
 
+<details>
+<summary>More screenshots</summary>
+
+![The loading screen](docs/images/loading-screen.jpg)
+
+![The main game screen with a different ship](docs/images/main-game-2.jpg)
+
+![More of the senior staff window](docs/images/senior-staff-2.jpg)
+
+![The officers panel: officers claimed and attracted](docs/images/officers.jpg)
+
+![The confirmation before claiming officers resets your ship](docs/images/claim-officers.jpg)
+
+![The credits screen](docs/images/credits.jpg)
+
+</details>
+
 ## Credits
 
 - **Sprite art:** Andrea Johnson
